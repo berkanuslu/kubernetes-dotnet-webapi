@@ -9,7 +9,7 @@ You can show all possible options with --help parameter.
 Create a folder and change directory in this folder.
 
     mkdir kubernetesdotnetwebapi
-	cd kubernetesdotnetwebapi
+    cd kubernetesdotnetwebapi
 
 Now you can create a new Web API project just write this command below.
 
@@ -44,4 +44,11 @@ This command above has a list about your Kubernetes configuration and you see yo
 
     kubectl logs -f kubernetes-dotnet-webapi-7877ff4cf7-s49lk
 
+## Versions
+
+.NET 3.1.2
+Docker version 19.03.8, build afacb8b
+kubectl v1.15.5
+
 Happy coding!
+April 2020
