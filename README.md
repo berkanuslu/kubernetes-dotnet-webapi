@@ -46,9 +46,12 @@ This command above has a list about your Kubernetes configuration and you see yo
 
 ## Versions
 
-.NET 3.1.2
+.NET 3.1.200
+
 Docker version 19.03.8, build afacb8b
+
 kubectl v1.15.5
+
 
 Happy coding!
 April 2020
